@@ -1,6 +1,6 @@
 # alexflipnote.xyz
 
-- Site: https://alexflipnote.xyz
+- Site: https://soheab.github.io/soheabmalik.github.io/
 - Usage: Information about myself
 - Framework:
   - [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS)
