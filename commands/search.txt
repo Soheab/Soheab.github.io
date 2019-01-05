@@ -1,0 +1,12 @@
+---------------
+| SEARCH COMMANDS |
+---------------
+
+,google <text>
+└─ Help not available...
+,[steam|st|Steam] [game...]
+└─ Get info about a game om steam
+,wikipedia [text...]
+└─ Wikipedia search.
+,youtube <query>
+└─ Search on Youtube

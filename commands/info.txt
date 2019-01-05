@@ -1,0 +1,28 @@
+---------------
+| INFO COMMANDS |
+---------------
+
+,[about|info|stats]
+└─ About the bot
+,[avatar|av] [member]
+└─ Get the avatar of you or someone else
+,[botserver|supportserver|feedbackserver]
+└─ Get an invite to our support server!
+,[invite|botinvite]
+└─ Invite me to your server
+,joinedat [user]
+└─ Check when a user joined the current server
+,memberstats
+└─ Help not available...
+,perms <user>
+└─ Help not available...
+,ping
+└─ Pong!
+,[roleperms|rop] <msg>
+└─ Get role perms! The role name must match exactly. Ex for a role "Admin", you'...
+,server
+└─ Server info commands.
+,uptime
+└─ Lists the bot's uptime.
+,userinfo [user]
+└─ Shows you the info for the given user, or yours if you didn't give a user.

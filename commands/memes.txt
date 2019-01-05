@@ -1,0 +1,32 @@
+---------------
+| MEMES COMMANDS |
+---------------
+
+,[bad|Bad] [user]
+└─ BAD! user.
+,captcha [user] <content>
+└─ Make a fun captcha out of your friends profilepic
+,clyde <content>
+└─ Make your own custom clyde message!
+,[colorify|colourify] <url> <hex>
+└─ Color a pic to a color of choice!
+,[drake|Drake] <texts>
+└─ Make a dank, drake meme.
+,[facts|Facts] [txt...]
+└─ Gets the facts book
+,[filter|fl] [filter] [user]
+└─ Give someone a nice filter.
+,fml
+└─ Fuck my life lines
+,[meme|Meme]
+└─ Posts a random meme.
+,[redditmeme|RedditMeme|Redditmeme|rmeme|Rmeme]
+└─ Pulls a random meme from r/me_irl
+,[salty|Salty] [user]
+└─ Show how salty someone is.
+,[scroll|Scroll] <txt>
+└─ The sacred scroll has something to say!
+,[ship|Ship] <user> <user2>
+└─ Help not available...
+,[supreme|Supreme] [txt...]
+└─ Gets a supreme font and color

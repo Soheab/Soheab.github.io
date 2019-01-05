@@ -1,0 +1,10 @@
+---------------
+| HELP COMMANDS |
+---------------
+
+,help [command]
+└─ Lists the bot's commands and cogs.
+,[newcommands|changelog]
+└─ See what's new, changed or removed
+,[report|suggest] <bug_or_suggestion>
+└─ Report a Bug or Suggest a command

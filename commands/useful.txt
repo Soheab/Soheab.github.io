@@ -1,0 +1,48 @@
+---------------
+| USEFUL COMMANDS |
+---------------
+
+,auditlogs
+└─ Audit logs as text!!
+,[botownertest|Botownertest]
+└─ Help not available...
+,[color|colour|Colour|Color]
+└─ Get the HEX or RGB code from a Color.
+,countdown
+└─ It's the final countdown.
+,curconvert <from_cur> <to_cur> <amount>
+└─ Convert currency using currency codes.
+,daysuntil
+└─ A command group to see the number of days until a holiday
+,dmme <message> [description=Makes the bot DM you with the specified message.] [brief=Makes the bot DM you with the specified message.]
+└─ Makes the bot DM you with the specified message.
+,dmuser [member] [message...]
+└─ Makes the bot DM you with the specified message.
+,[emoji|emote] <msg>
+└─ View, copy, add or remove emoji.
+,lowercase <msg>
+└─ lowercase dis
+,pin <id>
+└─ Pins the message with the specified ID to the channel.
+,[pingme|Pingme]
+└─ Help not available...
+,prefix
+└─ Shows the bot's prefixs
+,randomcolor
+└─ Picks a random hex color and gives a preview.
+,react <index> <reactions>
+└─ React to a specified message with reactions
+,shorten <url>
+└─ Shorten a link.
+,spellnum <num>
+└─ Converts text to numbers
+,spotify [user]
+└─ Get the current song that you or another user is playing.
+,time [tz]
+└─ Get the current date and time for a time zone or UTC.
+,translate <to_lang> <text>
+└─ Translate text using google translater.
+,unpin <id>
+└─ Unpins the message with the specified ID from the channel.
+,uppercase <msg>
+└─ UPPERCASE DIS

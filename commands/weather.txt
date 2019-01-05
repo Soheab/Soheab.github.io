@@ -1,0 +1,12 @@
+---------------
+| WEATHER COMMANDS |
+---------------
+
+,[forecast|fe] [city_name]
+└─ Gets some forecast.
+,[weather|we] [city_name]
+└─ Gets the weather.
+,[temperature|temp] [city_name]
+└─ Get the temperature only!
+,tconvert [temp] [from_type] [to_type]
+└─ Converts between Fahrenheit, Celsius, and Kelvin. From/To types can be:

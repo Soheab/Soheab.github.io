@@ -1,0 +1,112 @@
+---------------
+| FUN COMMANDS |
+---------------
+
+,[asktrump|trump|trumpquote] <question>
+└─ Ask Donald Trump a question!
+bigtext <text>
+└─ Create enlarged text.
+,birb
+└─ Posts a random birb
+,casetext <text>
+└─ Help not available...
+,cat
+└─ Posts a random cat.
+,catfact
+└─ Posts a random cat fact.
+,[choose|pick] <choices>
+└─ Choose randomly from the options you give. [p]choose this | that
+,coffee
+└─ Posts a random coffee!
+,[coinflip|flip|coin]
+└─ Coinflip!
+,[commandspam|csp] <amount> <command_name>
+└─ Spam X command Y times
+,compare compare <item1> and <item2>
+└─ Compare two things to see which is better
+,cookie [user]
+└─ Gives someone a cookie.
+,cowsay <message>
+└─ Help not available...
+,despacito
+└─ Just literally drops the lyrics of despacito in chat!
+,dog
+└─ Posts a random dog
+,duck
+└─ Posts a random duck
+,[eightball|Ball|ball|Eightball|8ball|8Ball] <question>
+└─ Help not available...
+,embedsay <body>
+└─ Send a simple embed
+,[f|F]
+└─ Press F to pay your respects
+,[f2|F2]
+└─ Say F2 to pay your respects
+,fart [user]
+└─ Fart on a user!
+,fist [user]
+└─ Fist a user
+,hack <user>
+└─ Hack someone's account! Try it!
+,[hotcalc|howhot|hot] [user]
+└─ Returns a random percent for how hot is a discord user
+,hug [user]
+└─ Hug a user!
+,k <search>
+└─ Find the 'best' definition to your words
+,kill [member]
+└─ Kill a user
+,kiss [user]
+└─ Kiss a user!
+,lenny
+└─ Lenny and tableflip group commands
+,lick [user]
+└─ Lick a user!
+,[lottery|lotto] <guesses>
+└─ Enter the lottery and see if you win!
+,nipple
+└─ Press nipple for a girl
+,[numberfact|number] <number>
+└─ Get a fact about a number.
+,owoify
+└─ Owowify your text
+,[pickle|pz] [user]
+└─ See your picklesize.
+,poke
+└─ Dont you dare
+,punch [user]
+└─ Punch a user!
+,[randomfact|fact]
+└─ Posts a random fact
+,[randomquote|randquote]
+└─ *quotes
+,reverse <text>
+└─ !poow ,ffuts esreveR
+,roast [user]
+└─ Roast the user
+,rps <your_choice>
+└─ Play rock paper scissors
+,sadcat
+└─ Posts a random sad cat.
+,shoot [user]
+└─ Shoot someone.
+,[slot|slots|bet]
+└─ Roll the slot machine
+,space <msg>
+└─ Add n spaces between each letter. Ex: [p]space 2 thicc
+,stab [user]
+└─ Ssstab a perssson!
+,tea [timer=0]
+└─ Tea time!
+,textflip <text>
+└─ Help not available...
+,[textspam|tsp] <amount> <text>
+└─ Spam X text Y times
+,thankunext
+└─ Just literally drops the lyrics of thank u, next in chat!
+,[txtmoji|textemoji] <msg>
+└─ Convert a Text to emotes.
+,urban <search>
+└─ Find the 'best' definition to your words
+,youtuberewind
+└─ Get the Youtube Rewind of 2018

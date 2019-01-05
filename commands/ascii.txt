@@ -1,0 +1,12 @@
+---------------
+| ASCII COMMANDS |
+---------------
+
+,ascii <text> [font]
+└─ Convert text to ascii art.
+,asciifonts
+└─ List all fonts.
+,asciirandom <text>
+└─ Convert text to ascii art.
+,img2txt [url] [columns=30]
+└─ Convert image as URL to ascii.

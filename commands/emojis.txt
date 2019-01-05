@@ -1,0 +1,20 @@
+---------------
+| EMOJI COMMANDS |
+---------------
+
+,crazythink
+└─ Let me send the "crazythink" emoji.
+,dickbutt
+└─ Let me send the "dickbutt" emoji.
+,kappa
+└─ Let me send the "kappa" emoji.
+,lul
+└─ Let me send the "lul" emoji.
+,oof
+└─ Let me send the "oof" emoji.
+,pickleparty
+└─ Let me send the "pickleparty" emoji.
+,succ
+└─ Let me send the "succ" emoji.
+,youtried
+└─ Let me send the "youtried" emoji.

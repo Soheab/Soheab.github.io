@@ -1,0 +1,46 @@
+---------------
+| RATES COMMANDS |
+---------------
+
+,[rate|ra] <thing>
+└─ Rates things
+,[babyrate|br] <users>
+└─ Give two users to see their chance of getting a baby!
+,[boyfriendrate|bfr] [user]
+└─ Rates if someone is getting a boyfriend
+,[chance|ch] <thing>
+└─ Chance of things
+,[funnyrate|fr]
+└─ See how funny the message/pic above is.
+,[gayrate|gr] <thing>
+└─ Rates how gay someone is
+,[girlfriendrate|gfr] [user]
+└─ Rates if someone is getting a girlfriend
+,[haterate|hr] <thing>
+└─ See if something hates you
+,[howaccurate|hoa]
+└─ See how accurate the rate above is.
+,[kapparate|kr]
+└─ See how much kappa the message above is.
+,[lesbianrate|lsr] <thing>
+└─ Rates how lesbian someone is
+,[lierate|lr] <thing>
+└─ Rates if someone is lying
+,[loverate|lovr] <users>
+└─ See how much the love between someone is.
+,[marryrate|mr] <thing>
+└─ Rates if someone is getting married
+,[notfunnyrate|nfr]
+└─ See how not funny the message/pic above is.
+,[oofrate|ofr]
+└─ See how much OOF the message above is.
+,[scaryrate|sr] <thing>
+└─ Rates how scary something is
+,[scaryratemessage|srm]
+└─ See how much scary the message above is.
+,[shitrate|shr] <thing>
+└─ Rates if something is shit
+,[stupidrate|str] <thing>
+└─ Rates how stupid something or someone is
+,[truthrate|tr] <thing>
+└─ Rates if someone is saying the truth
