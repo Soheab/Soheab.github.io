@@ -1,0 +1,26 @@
+---------------
+| NONPG COMMANDS |
+---------------
+
+,dick [member]
+└─ Suck a dick.
+,dick2 <member> <member2>
+└─ Suck somones dick.
+,[dildo|dz] [user]
+└─ See somones or urs dildo size.
+,kill [member]
+└─ Kill a user
+,nipple
+└─ Press nipple for a girl
+,[pickle|pz] [user]
+└─ See your picklesize.
+,pussy [member]
+└─ Eat da pussy.
+,pussy2 <member> <member2>
+└─ Eat somones pussy.
+,roast [user]
+└─ Roast the user
+,shoot [user]
+└─ Shoot someone.
+,stab [user]
+└─ Ssstab a perssson!

@@ -4,7 +4,7 @@
 
 ,[asktrump|trump|trumpquote] <question>
 └─ Ask Donald Trump a question!
-bigtext <text>
+,bigtext <text>
 └─ Create enlarged text.
 ,birb
 └─ Posts a random birb
@@ -52,10 +52,9 @@ bigtext <text>
 └─ Returns a random percent for how hot is a discord user
 ,hug [user]
 └─ Hug a user!
+fun Cog - fun.py Extension
 ,k <search>
 └─ Find the 'best' definition to your words
-,kill [member]
-└─ Kill a user
 ,kiss [user]
 └─ Kiss a user!
 ,lenny
@@ -64,14 +63,10 @@ bigtext <text>
 └─ Lick a user!
 ,[lottery|lotto] <guesses>
 └─ Enter the lottery and see if you win!
-,nipple
-└─ Press nipple for a girl
 ,[numberfact|number] <number>
 └─ Get a fact about a number.
 ,owoify
 └─ Owowify your text
-,[pickle|pz] [user]
-└─ See your picklesize.
 ,poke
 └─ Dont you dare
 ,punch [user]
@@ -82,20 +77,14 @@ bigtext <text>
 └─ *quotes
 ,reverse <text>
 └─ !poow ,ffuts esreveR
-,roast [user]
-└─ Roast the user
 ,rps <your_choice>
 └─ Play rock paper scissors
 ,sadcat
 └─ Posts a random sad cat.
-,shoot [user]
-└─ Shoot someone.
 ,[slot|slots|bet]
 └─ Roll the slot machine
 ,space <msg>
 └─ Add n spaces between each letter. Ex: [p]space 2 thicc
-,stab [user]
-└─ Ssstab a perssson!
 ,tea [timer=0]
 └─ Tea time!
 ,textflip <text>

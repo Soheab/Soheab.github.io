@@ -6,6 +6,8 @@
 └─ Let me send the "crazythink" emoji.
 ,dickbutt
 └─ Let me send the "dickbutt" emoji.
+,[emoji|emote] <msg>
+└─ View, copy, add or remove emoji.
 ,kappa
 └─ Let me send the "kappa" emoji.
 ,lul
@@ -14,6 +16,8 @@
 └─ Let me send the "oof" emoji.
 ,pickleparty
 └─ Let me send the "pickleparty" emoji.
+,react <index> <reactions>
+└─ React to a specified message with reactions
 ,succ
 └─ Let me send the "succ" emoji.
 ,youtried

@@ -18,8 +18,6 @@
 └─ Makes the bot DM you with the specified message.
 ,dmuser [member] [message...]
 └─ Makes the bot DM you with the specified message.
-,[emoji|emote] <msg>
-└─ View, copy, add or remove emoji.
 ,lowercase <msg>
 └─ lowercase dis
 ,pin <id>
@@ -30,8 +28,6 @@
 └─ Shows the bot's prefixs
 ,randomcolor
 └─ Picks a random hex color and gives a preview.
-,react <index> <reactions>
-└─ React to a specified message with reactions
 ,shorten <url>
 └─ Shorten a link.
 ,spellnum <num>
