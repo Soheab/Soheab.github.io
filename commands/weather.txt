@@ -1,8 +1,0 @@
----------------
-| WEATHER COMMANDS |
----------------
-
-,[temperature|temp] <location>
-└─ Get the temperature only!
-,[weather|we] <location>
-└─ Get the weather!

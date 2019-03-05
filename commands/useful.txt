@@ -1,44 +1,73 @@
----------------
-| USEFUL COMMANDS |
----------------
+------------------------
+|| 👍 | Useful commands ||
+------------------------
 
-,auditlogs
-└─ Audit logs as text!!
-,[botownertest|Botownertest]
-└─ Help not available...
-,[color|colour|Colour|Color]
+S![color|colour]
+---
 └─ Get the HEX or RGB code from a Color.
-,countdown
+S!count
+---
+└─ The amount of users/servers im in
+S!countdown
+---
 └─ It's the final countdown.
-,curconvert <from_cur> <to_cur> <amount>
+S!curconvert <from_cur> <to_cur> <amount>
+---
 └─ Convert currency using currency codes.
-,daysuntil
+S!daysuntil
+---
 └─ A command group to see the number of days until a holiday
-,dmme <message> [description=Makes the bot DM you with the specified message.] [brief=Makes the bot DM you with the specified message.]
+S!dmme <message> [description=Makes the bot DM you with the specified message.] [brief=Makes the bot DM you with the specified message.]
+---
 └─ Makes the bot DM you with the specified message.
-,dmuser [member] [message...]
-└─ Makes the bot DM you with the specified message.
-,lowercase <msg>
+S!dmuser <member> <message>
+---
+└─ Makes the bot DM someone with the specified message.
+S!google <text>
+---
+└─ No description set..
+S!lowercase <msg>
+---
 └─ lowercase dis
-,pin <id>
+S!pin <id>
+---
 └─ Pins the message with the specified ID to the channel.
-,[pingme|Pingme]
-└─ Help not available...
-,prefix
+S![pingme|Pingme]
+---
+└─ No description set..
+S!prefix
+---
 └─ Shows the bot's prefixs
-,randomcolor
+S![randomcolor|rcolor]
+---
 └─ Picks a random hex color and gives a preview.
-,shorten <url>
-└─ Shorten a link.
-,spellnum <num>
+S!spellnum <num>
+---
 └─ Converts text to numbers
-,spotify [user]
+S!spotify [member]
+---
 └─ Get the current song that you or another user is playing.
-,time [tz]
+S![steam|st|Steam] [game...]
+---
+└─ Get info about a game om steam
+S!time [tz]
+---
 └─ Get the current date and time for a time zone or UTC.
-,translate <to_lang> <text>
+S!translate <to_lang> <text>
+---
 └─ Translate text using google translater.
-,unpin <id>
+S!unpin <id>
+---
 └─ Unpins the message with the specified ID from the channel.
-,uppercase <msg>
+S!unspoil <message_id>
+---
+└─ Get what was said without spoiler tags
+S!uppercase <msg>
+---
 └─ UPPERCASE DIS
+S!wikipedia [text]
+---
+└─ Wikipedia search.
+S!youtube <query>
+---
+└─ Search on Youtube

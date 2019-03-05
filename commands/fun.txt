@@ -1,101 +1,163 @@
----------------
-| FUN COMMANDS |
----------------
+------------------------
+|| 😂 | Fun commands ||
+------------------------
 
-,[asktrump|trump|trumpquote] <question>
-└─ Ask Donald Trump a question!
-,bigtext <text>
+S!bean <member>
+---
+└─ Ban whoever you dislike.
+S!bigtext <text>
+---
 └─ Create enlarged text.
-,birb
-└─ Posts a random birb
-,casetext <text>
-└─ Help not available...
-,cat
-└─ Posts a random cat.
-,catfact
-└─ Posts a random cat fact.
-,[choose|pick] <choices>
+S!birb
+---
+└─ Posts a Random birb
+S!casetext <text>
+---
+└─ No description set..
+S!cat
+---
+└─ Posts a Random cat.
+S!catfact
+---
+└─ Posts a Random cat fact
+S![choose|pick] <choices>
+---
 └─ Choose randomly from the options you give. [p]choose this | that
-,coffee
+S!coffee
+---
 └─ Posts a random coffee!
-,[coinflip|flip|coin]
+S![coinflip|flip|coin]
+---
 └─ Coinflip!
-,[commandspam|csp] <amount> <command_name>
-└─ Spam X command Y times
-,compare compare <item1> and <item2>
+S!compare compare <item1> and <item2>
+---
 └─ Compare two things to see which is better
-,cookie [user]
+S!cookie [user]
+---
 └─ Gives someone a cookie.
-,cowsay <message>
-└─ Help not available...
-,despacito
-└─ Just literally drops the lyrics of despacito in chat!
-,dog
+S!cowsay <message>
+---
+└─ No description set..
+S![disappointment|disap] <member>
+---
+└─ He is definitely a disappointment.
+S!dog
+---
 └─ Posts a random dog
-,duck
-└─ Posts a random duck
-,[eightball|Ball|ball|Eightball|8ball|8Ball] <question>
-└─ Help not available...
-,embedsay <body>
-└─ Send a simple embed
-,[f|F]
+S!duck
+---
+└─ Posts a Random duck
+S![eightball|8ball] <question>
+---
+└─ No description set..
+S![f|F]
+---
 └─ Press F to pay your respects
-,[f2|F2]
+S![f2|F2]
+---
 └─ Say F2 to pay your respects
-,fart [user]
+S!fart [user]
+---
 └─ Fart on a user!
-,fist [user]
+S!fist [user]
+---
 └─ Fist a user
-,hack <user>
-└─ Hack someone's account! Try it!
-,[hotcalc|howhot|hot] [user]
-└─ Returns a random percent for how hot is a discord user
-,hug [user]
+S!fox
+---
+└─ Posts a Random fox.
+S!gossip <member>
+---
+└─ Gossip the bot noticed throughout the server. Shhh.
+S!hack [user]
+---
+└─ Hack someone's account! For real!
+S!hallo
+---
+└─ See how they see 'hello' in other languages!
+S!hug [user]
+---
 └─ Hug a user!
-fun Cog - fun.py Extension
-,k <search>
-└─ Find the 'best' definition to your words
-,kiss [user]
+S!kekify <text>
+---
+└─ Kekify your text
+S!kiss [user]
+---
 └─ Kiss a user!
-,lenny
-└─ Lenny and tableflip group commands
-,lick [user]
+S!lick [user]
+---
 └─ Lick a user!
-,[lottery|lotto] <guesses>
-└─ Enter the lottery and see if you win!
-,[numberfact|number] <number>
+S!love <user>
+---
+└─ Found your one true love?
+S![numberfact|number] <number>
+---
 └─ Get a fact about a number.
-,owoify
+S!owoify
+---
 └─ Owowify your text
-,poke
-└─ Dont you dare
-,punch [user]
+S!panda
+---
+└─ Posts a Random panda.
+S!pikachu
+---
+└─ Posts a Random pikachu.
+S!praise <member>
+---
+└─ Let the world know who's the best!
+S!punch [user]
+---
 └─ Punch a user!
-,[randomfact|fact]
+S![randomfact|fact]
+---
 └─ Posts a random fact
-,[randomquote|randquote]
+S![randomquote|randquote]
+---
 └─ *quotes
-,reverse <text>
+S!randomuser
+---
+└─ Chooses a random user from the server
+S!redpanda
+---
+└─ Posts a Random Redpanda.
+S!reverse <text>
+---
 └─ !poow ,ffuts esreveR
-,rps <your_choice>
+S!rps <your_choice>
+---
 └─ Play rock paper scissors
-,sadcat
-└─ Posts a random sad cat.
-,[slot|slots|bet]
+S!sadcat
+---
+└─ Posts a Random sad cat.
+S!say <message>
+---
+└─ Let it say what you want.
+S!shrug
+---
+└─ Shrugs!
+S![slot|slots|bet]
+---
 └─ Roll the slot machine
-,space <msg>
+S!space <msg>
+---
 └─ Add n spaces between each letter. Ex: [p]space 2 thicc
-,tea [timer=0]
-└─ Tea time!
-,textflip <text>
-└─ Help not available...
-,[textspam|tsp] <amount> <text>
-└─ Spam X text Y times
-,thankunext
-└─ Just literally drops the lyrics of thank u, next in chat!
-,[txtmoji|textemoji] <msg>
+S!stupid <member>
+---
+└─ Blame stupid people
+S![subleading|sl] [p] [stping=True]
+---
+└─ Check the leader between pewdiepie and tseries
+S!textflip <text>
+---
+└─ No description set..
+S![txtmoji|textemoji] <msg>
+---
 └─ Convert a Text to emotes.
-,urban <search>
+S!urban <search>
+---
 └─ Find the 'best' definition to your words
-,youtuberewind
-└─ Get the Youtube Rewind of 2018
+S!urban2 <search>
+---
+└─ Old urban command
+S!whatdevice
+---
+└─ The bot will tell you if youre on mobile or desktop :)

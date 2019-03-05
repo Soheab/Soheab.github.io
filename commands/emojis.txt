@@ -1,24 +1,55 @@
----------------
-| EMOJI COMMANDS |
----------------
+------------------------
+|| 👀 | Emojis commands ||
+------------------------
 
-,crazythink
-└─ Let me send the "crazythink" emoji.
-,dickbutt
-└─ Let me send the "dickbutt" emoji.
-,[emoji|emote] <msg>
+s!crazythink
+---
+└─ No description set..
+s![emoji|emote] <msg>
+---
 └─ View, copy, add or remove emoji.
-,kappa
-└─ Let me send the "kappa" emoji.
-,lul
-└─ Let me send the "lul" emoji.
-,oof
-└─ Let me send the "oof" emoji.
-,pickleparty
-└─ Let me send the "pickleparty" emoji.
-,react <index> <reactions>
+s!googleemoji
+---
+└─ No description set..
+s!instagram
+---
+└─ No description set..
+s!kappa
+---
+└─ No description set..
+s!kek
+---
+└─ No description set..
+s!lul
+---
+└─ No description set..
+s!mcblock
+---
+└─ No description set..
+s!nou
+---
+└─ See all my `Nou` emojis!
+s!ok_hand
+---
+└─ No description set..
+s!omegalul
+---
+└─ No description set..
+s!oof
+---
+└─ No description set..
+s!pickleparty
+---
+└─ No description set..
+s!react <index> <reactions>
+---
 └─ React to a specified message with reactions
-,succ
-└─ Let me send the "succ" emoji.
-,youtried
-└─ Let me send the "youtried" emoji.
+s!xbox
+---
+└─ No description set..
+s!yeet
+---
+└─ No description set..
+s!youtried
+---
+└─ No description set..

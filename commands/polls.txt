@@ -1,12 +1,16 @@
----------------
-| POLLS COMMANDS |
----------------
+------------------------
+|| ✅ | Polls commands ||
+------------------------
 
-,[instantpoll|ip] <title> [options...]
+s![instantpoll|ip] <title> [options...]
+---
 └─ Creates a poll instantly.
-,poll <question>
-└─ Help not available...
-,[reactpoll|rp|rpoll|Rpoll|RPoll]
+s!poll <question>
+---
+└─ No description set..
+s![reactpoll|rp|rpoll|Rpoll|RPoll]
+---
 └─ Reacts on your question.
-,vote <message>
+s!vote <message>
+---
 └─ Make a vote on your server

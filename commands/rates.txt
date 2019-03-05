@@ -1,46 +1,58 @@
----------------
-| RATES COMMANDS |
----------------
+------------------------
+|| 🔢 | Rates commands ||
+------------------------
 
-,[rate|ra] <thing>
+s![rate|ra] <thing>
+---
 └─ Rates things
-,[babyrate|br] <users>
+s![babyrate|br] <users>
+---
 └─ Give two users to see their chance of getting a baby!
-,[boyfriendrate|bfr] [user]
-└─ Rates if someone is getting a boyfriend
-,[chance|ch] <thing>
+s![chance|ch] <thing>
+---
 └─ Chance of things
-,[funnyrate|fr]
+s![funnyrate|fr]
+---
 └─ See how funny the message/pic above is.
-,[gayrate|gr] <thing>
+s![gayrate|gr] <thing>
+---
 └─ Rates how gay someone is
-,[girlfriendrate|gfr] [user]
-└─ Rates if someone is getting a girlfriend
-,[haterate|hr] <thing>
+s![haterate|hr] <thing>
+---
 └─ See if something hates you
-,[howaccurate|hoa]
+s![howaccurate|hoa]
+---
 └─ See how accurate the rate above is.
-,[kapparate|kr]
+s![kapparate|kr]
+---
 └─ See how much kappa the message above is.
-,[lesbianrate|lsr] <thing>
+s![lesbianrate|lsr] <thing>
+---
 └─ Rates how lesbian someone is
-,[lierate|lr] <thing>
+s![lierate|lr] <thing>
+---
 └─ Rates if someone is lying
-,[loverate|lovr] <users>
+s![loverate|lovr] <users>
+---
 └─ See how much the love between someone is.
-,[marryrate|mr] <thing>
-└─ Rates if someone is getting married
-,[notfunnyrate|nfr]
+s![notfunnyrate|nfr]
+---
 └─ See how not funny the message/pic above is.
-,[oofrate|ofr]
+s![oofrate|ofr]
+---
 └─ See how much OOF the message above is.
-,[scaryrate|sr] <thing>
+s![reactrate|rrate]
+---
+└─ React to rate it.
+s![scaryrate|sr] <thing>
+---
 └─ Rates how scary something is
-,[scaryratemessage|srm]
+s![scaryratemessage|srm]
+---
 └─ See how much scary the message above is.
-,[shitrate|shr] <thing>
+s![shitrate|shr] <thing>
+---
 └─ Rates if something is shit
-,[stupidrate|str] <thing>
-└─ Rates how stupid something or someone is
-,[truthrate|tr] <thing>
+s![truthrate|tr] <thing>
+---
 └─ Rates if someone is saying the truth
