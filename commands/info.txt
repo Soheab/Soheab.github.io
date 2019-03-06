@@ -11,7 +11,10 @@ S!about2
 S![avatar|av] [member]
 ---
 └─ Get the avatar of you or someone else
-S![botserver|supportserver|feedbackserver]
+S!benisserver
+---
+└─ Get an invite to my weird server!
+S![botserver|supportserver]
 ---
 └─ Get an invite to our support server!
 S!channelinfo [channel]
@@ -23,9 +26,6 @@ S!device [member]
 S![invite|botinvite]
 ---
 └─ Invite me to your server
-S!isbot <member>
----
-└─ Check if someone is a bot :eyes:
 S!joinedat [user]
 ---
 └─ Check when a user joined the current server
@@ -41,9 +41,6 @@ S!perms [user]
 S!ping
 ---
 └─ Pong!
-S!profile [user]
----
-└─ Shows useful info about the given user.
 S!rolemembers <role>
 ---
 └─ See all members in the certain role.
