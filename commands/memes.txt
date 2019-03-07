@@ -2,48 +2,48 @@
 || 🤡 | Meme commands ||
 ------------------------
 
-S![bad|Bad] [user]
+s![bad|Bad] [user]
 ---
 └─ BAD! user.
-S!captcha [user] <content>
+s!captcha [user] <content>
 ---
 └─ Make a fun captcha out of your friends profilepic
-S!clyde <content>
+s!clyde <content>
 ---
 └─ Make your own custom clyde message!
-S![colorify|colourify] <url> <hex>
+s![colorify|colourify] <url> <hex>
 ---
 └─ Color a pic to a color of choice!
-S![discordmeme|dmeme]
+s![discordmeme|dmeme]
 ---
-└─ Pulls a random meme from r/Discordmemes
-S![drake|Drake] <texts>
+└─ Pulls a random meme from r/Discordmemes WARNING: Can be offensive
+s![drake|Drake] <texts>
 ---
 └─ Make a dank, drake meme.
-S![facts|Facts] [txt...]
+s![facts|Facts] [txt...]
 ---
 └─ Gets the facts book
-S![filter|fl] [filter] [user]
+s![filter|fl] [filter] [user]
 ---
 └─ Give someone a nice filter.
-S!fml
+s!fml
 ---
 └─ Fuck my life lines
-S![meme|Meme]
+s![meme|Meme]
 ---
-└─ Posts a random meme.
-S![pewdiepiememe|pmeme]
+└─ Posts random memes. WARNING: Can be offensive
+s![pewdiepiememe|pmeme]
 ---
-└─ Pulls a random meme from r/PewdiepieSubmissions
-S![redditmeme|rmeme]
+└─ Pulls a random meme from r/PewdiepieSubmissions WARNING: Can be offensive
+s![redditmeme|rmeme]
 ---
-└─ Pulls a random meme from r/me_irl
-S![salty|Salty] [user]
+└─ Pulls a random meme from r/me_irl WARNING: Can be offensive
+s![salty|Salty] [user]
 ---
 └─ Show how salty someone is.
-S![ship|Ship] <user> <user2>
+s![ship|Ship] <user> <user2>
 ---
 └─ Make a lovely ship <3
-S![supreme|Supreme] [txt...]
+s![supreme|Supreme] [txt...]
 ---
 └─ Gets a supreme font and color

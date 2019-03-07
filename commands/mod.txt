@@ -2,39 +2,39 @@
 || 🧹 | Moderator commands ||
 ------------------------
 
-S!ban <member> [reason]
+s!ban <member> [reason]
 ---
 └─ Bans a user from the current server.
-S!clear <amount>
+s!clear <amount>
 ---
 └─ Clears x amounts of messages, easily.
-S!command
+s!command
 ---
 └─ No description set..
-S!find
+s!find
 ---
 └─ Finds a user within your search term
-S!kick <member> [reason]
+s!kick <member> [reason]
 ---
 └─ Kicks a user from the current server.
-S!massban <reason> [members...]
+s!massban <reason> [members...]
 ---
 └─ Mass bans multiple members from the server.
-S!mute <member> [reason]
+s!mute <member> [reason]
 ---
 └─ Mutes a user from the current server.
-S![nickname|nick] <member> [name]
+s![nickname|nick] <member> [name]
 ---
 └─ Nicknames a user from the current server.
-S!prune
+s!prune
 ---
 └─ Removes messages from the current server.
-S!unban <member> [reason]
+s!unban <member> [reason]
 ---
 └─ Unbans a user from the current server.
-S!unmute <member> [reason]
+s!unmute <member> [reason]
 ---
 └─ Unmutes a user from the current server.
-S!warn [member] [reason]
+s!warn [member] [reason]
 ---
 └─ Warn a member.

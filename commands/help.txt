@@ -2,12 +2,12 @@
 || ⁉ | Help commands ||
 ------------------------
 
-S![changelog|newcommands]
+s![changelog|newcommands]
 ---
 └─ See what's new, changed or removed
-S!help [command]
+s!help [command]
 ---
 └─ Lists the bot's commands and cogs.
-S![suggest|report] <suggestion_bug>
+s![suggest|report] <suggestion_bug>
 ---
 └─ Suggest a command or report a bug with this.

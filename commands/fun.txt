@@ -125,6 +125,9 @@ s!redpanda
 s!reverse <text>
 ---
 └─ !poow ,ffuts esreveR
+s!roast [user]
+---
+└─ Roast the user. WARNING: Can be VERY offensive
 s!rps <your_choice>
 ---
 └─ Play rock paper scissors
