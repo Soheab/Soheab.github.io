@@ -3,11 +3,10 @@
 ------------------------
 
 s!ascii <text> [font]
----
 └─ Convert text to ascii art.
+
 s!asciifonts
----
 └─ List all fonts.
+
 s!asciirandom <text>
----
 └─ Convert text to ascii art.

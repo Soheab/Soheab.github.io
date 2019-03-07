@@ -3,14 +3,13 @@
 ------------------------
 
 s![instantpoll|ip] <title> [options...]
----
 └─ Creates a poll instantly.
+
 s!poll <question>
----
 └─ No description set..
+
 s![reactpoll|rp|rpoll|Rpoll|RPoll]
----
 └─ Reacts on your question.
+
 s!vote <message>
----
 └─ Make a vote on your server

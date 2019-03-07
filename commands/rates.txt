@@ -3,56 +3,55 @@
 ------------------------
 
 s![rate|ra] <thing>
----
 └─ Rates things
+
 s![babyrate|br] <users>
----
 └─ Give two users to see their chance of getting a baby!
+
 s![chance|ch] <thing>
----
 └─ Chance of things
+
 s![funnyrate|fr]
----
 └─ See how funny the message/pic above is.
+
 s![gayrate|gr] <thing>
----
 └─ Rates how gay someone is
+
 s![haterate|hr] <thing>
----
 └─ See if something hates you
+
 s![howaccurate|hoa]
----
 └─ See how accurate the rate above is.
+
 s![kapparate|kr]
----
 └─ See how much kappa the message above is.
+
 s![lesbianrate|lsr] <thing>
----
 └─ Rates how lesbian someone is
+
 s![lierate|lr] <thing>
----
 └─ Rates if someone is lying
+
 s![loverate|lovr] <users>
----
 └─ See how much the love between someone is.
+
 s![notfunnyrate|nfr]
----
 └─ See how not funny the message/pic above is.
+
 s![oofrate|ofr]
----
 └─ See how much OOF the message above is.
+
 s![reactrate|rrate]
----
 └─ React to rate it.
+
 s![scaryrate|sr] <thing>
----
 └─ Rates how scary something is
+
 s![scaryratemessage|srm]
----
 └─ See how much scary the message above is.
+
 s![shitrate|shr] <thing>
----
 └─ Rates if something is shit
+
 s![truthrate|tr] <thing>
----
 └─ Rates if someone is saying the truth

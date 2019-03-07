@@ -3,74 +3,72 @@
 ------------------------
 
 s![bitcoinvalue|bitv]
----
 └─ See the live time value of BitCoin!
+
 s![color|colour]
----
 └─ Get the HEX or RGB code from a Color.
+
 s!count
----
-└─ The amount of users/servers im in
+└─ The amount of users/servers im in.
+
 s!countdown
----
 └─ It's the final countdown.
+
 s!curconvert <from_cur> <to_cur> <amount>
----
 └─ Convert currency using currency codes.
+
 s!daysuntil
----
 └─ A command group to see the number of days until a holiday
+
 s!dmme <message> [description=Makes the bot DM you with the specified message.] [brief=Makes the bot DM you with the specified message.]
----
 └─ Makes the bot DM you with the specified message.
+
 s!dmuser <member> <message>
----
 └─ Makes the bot DM someone with the specified message.
+
 s!google <text>
----
 └─ No description set..
+
 s!lowercase <msg>
----
 └─ lowercase dis
+
 s!pin <id>
----
 └─ Pins the message with the specified ID to the channel.
+
 s![pingme|Pingme]
----
 └─ No description set..
+
 s!prefix
----
 └─ Shows the bot's prefixs
 s![randomcolor|rcolor]
----
 └─ Picks a random hex color and gives a preview.
+
 s!spellnum <num>
----
 └─ Converts text to numbers
+
 s!spotify [member]
----
 └─ Get the current song that you or another user is playing.
+
 s![steam|st|Steam] [game...]
----
 └─ Get info about a game om steam
+
 s!time [tz]
----
 └─ Get the current date and time for a time zone or UTC.
+
 s!translate <to_lang> <text>
----
 └─ Translate text using google translater.
+
 s!unpin <id>
----
 └─ Unpins the message with the specified ID from the channel.
+
 s!unspoil <message_id>
----
 └─ Get what was said without spoiler tags
+
 s!uppercase <msg>
----
 └─ UPPERCASE DIS
+
 s!wikipedia [text]
----
 └─ Wikipedia search.
+
 s!youtube <query>
----
 └─ Search on Youtube

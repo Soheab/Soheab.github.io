@@ -3,53 +3,52 @@
 ------------------------
 
 s!crazythink
----
 └─ No description set..
+
 s![emoji|emote] <msg>
----
 └─ View, copy, add or remove emoji.
+
 s!googleemoji
----
 └─ No description set..
+
 s!instagram
----
 └─ No description set..
+
 s!kappa
----
 └─ No description set..
+
 s!kek
----
 └─ No description set..
+
 s!lul
----
 └─ No description set..
+
 s!mcblock
----
 └─ No description set..
+
 s!nou
----
 └─ See all my `Nou` emojis!
+
 s!ok_hand
----
 └─ No description set..
+
 s!omegalul
----
 └─ No description set..
+
 s!oof
----
 └─ No description set..
+
 s!pickleparty
----
 └─ No description set..
+
 s!react <index> <reactions>
----
-└─ React to a specified message with reactions
+└─ React to a specified message with reactions.
+
 s!xbox
----
 └─ No description set..
+
 s!yeet
----
 └─ No description set..
+
 s!youtried
----
 └─ No description set..

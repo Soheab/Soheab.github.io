@@ -3,47 +3,46 @@
 ------------------------
 
 s![bad|Bad] [user]
----
 └─ BAD! user.
+
 s!captcha [user] <content>
----
 └─ Make a fun captcha out of your friends profilepic
+
 s!clyde <content>
----
 └─ Make your own custom clyde message!
+
 s![colorify|colourify] <url> <hex>
----
 └─ Color a pic to a color of choice!
+
 s![discordmeme|dmeme]
----
 └─ Pulls a random meme from r/Discordmemes WARNING: Can be offensive
+
 s![drake|Drake] <texts>
----
 └─ Make a dank, drake meme.
+
 s![facts|Facts] [txt...]
----
 └─ Gets the facts book
+
 s![filter|fl] [filter] [user]
----
 └─ Give someone a nice filter.
+
 s!fml
----
 └─ Fuck my life lines
+
 s![meme|Meme]
----
 └─ Posts random memes. WARNING: Can be offensive
+
 s![pewdiepiememe|pmeme]
----
 └─ Pulls a random meme from r/PewdiepieSubmissions WARNING: Can be offensive
+
 s![redditmeme|rmeme]
----
 └─ Pulls a random meme from r/me_irl WARNING: Can be offensive
+
 s![salty|Salty] [user]
----
 └─ Show how salty someone is.
+
 s![ship|Ship] <user> <user2>
----
 └─ Make a lovely ship <3
+
 s![supreme|Supreme] [txt...]
----
 └─ Gets a supreme font and color

@@ -3,38 +3,37 @@
 ------------------------
 
 s!ban <member> [reason]
----
 └─ Bans a user from the current server.
+
 s!clear <amount>
----
 └─ Clears x amounts of messages, easily.
+
 s!command
----
 └─ No description set..
+
 s!find
----
 └─ Finds a user within your search term
+
 s!kick <member> [reason]
----
 └─ Kicks a user from the current server.
+
 s!massban <reason> [members...]
----
 └─ Mass bans multiple members from the server.
+
 s!mute <member> [reason]
----
 └─ Mutes a user from the current server.
+
 s![nickname|nick] <member> [name]
----
 └─ Nicknames a user from the current server.
+
 s!prune
----
 └─ Removes messages from the current server.
+
 s!unban <member> [reason]
----
 └─ Unbans a user from the current server.
+
 s!unmute <member> [reason]
----
 └─ Unmutes a user from the current server.
+
 s!warn [member] [reason]
----
 └─ Warn a member.
