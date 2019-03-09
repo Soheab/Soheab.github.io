@@ -3,52 +3,49 @@
 ------------------------
 
 s!crazythink
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s![emoji|emote] <msg>
 └─ View, copy, add or remove emoji.
-
+​
 s!googleemoji
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s!instagram
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s!kappa
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s!kek
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s!lul
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s!mcblock
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s!nou
-└─ See all my `Nou` emojis!
-
+└─ See all my Nou emojis!
+​
 s!ok_hand
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s!omegalul
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s!oof
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s!pickleparty
-└─ No description set..
-
-s!react <index> <reactions>
-└─ React to a specified message with reactions.
-
+└─ Sends a emoji.
+​
 s!xbox
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s!yeet
-└─ No description set..
-
+└─ Sends a emoji.
+​
 s!youtried
-└─ No description set..
+└─ Sends a emoji.

@@ -4,168 +4,168 @@
 
 s!bean <member>
 └─ Ban whoever you dislike.
-
+​
 s!bigtext <text>
 └─ Create enlarged text.
-
+​
 s!birb
 └─ Posts a Random birb
-
+​
 s!casetext <text>
 └─ No description set..
-
+​
 s!cat
 └─ Posts a Random cat.
-
+​
 s!catfact
 └─ Posts a Random cat fact
-
+​
 s![choose|pick] <choices>
 └─ Choose randomly from the options you give. [p]choose this | that
-
+​
 s!coffee
 └─ Posts a random coffee!
-
+​
 s![coinflip|flip|coin]
 └─ Coinflip!
-
+​
 s!compare compare <item1> and <item2>
 └─ Compare two things to see which is better
-
+​
 s!cookie [user]
 └─ Gives someone a cookie.
-
+​
 s!cowsay <message>
 └─ No description set..
-
+​
 s![disappointment|disap] <member>
 └─ He is definitely a disappointment.
-
+​
 s!dog
 └─ Posts a random dog
-
+​
 s!duck
 └─ Posts a Random duck
-
+​
 s![eightball|8ball] <question>
 └─ No description set..
-
+​
 s![f|F]
 └─ Press F to pay your respects
-
+​
 s![f2|F2]
 └─ Say F2 to pay your respects
-
+​
 s!fart [user]
 └─ Fart on a user!
-
+​
 s!fist [user]
 └─ Fist a user
-
+​
 s!fox
 └─ Posts a Random fox.
-
+​
+s![givemefood|gmf]
+└─ I will give you food.
+​
 s!gossip <member>
 └─ Gossip the bot noticed throughout the server. Shhh.
-
+​
 s!hack [user]
 └─ Hack someone's account! For real!
-
+​
 s!hallo
 └─ See how they see 'hello' in other languages!
-
+​
 s!hug [user]
 └─ Hug a user!
-
+​
 s!isbot <member>
 └─ Check if someone is a bot :eyes:
-
+​
 s!kekify <text>
 └─ Kekify your text
-
+​
 s!kiss [user]
 └─ Kiss a user!
-
+​
 s!lick [user]
 └─ Lick a user!
-
+​
 s!love <user>
 └─ Found your one true love?
-
+​
 s![numberfact|number] <number>
 └─ Get a fact about a number.
-
+​
 s!owoify
 └─ Owowify your text
-
+​
 s!panda
 └─ Posts a Random panda.
-
+​
 s!pikachu
 └─ Posts a Random pikachu.
-
+​
 s!praise <member>
 └─ Let the world know who's the best!
-
+​
 s!punch [user]
 └─ Punch a user!
-
+​
 s![randomfact|fact]
 └─ Posts a random fact
-
-s![randomquote|randquote]
+​
+s![randomquote|quote]
 └─ Posts a random quote.
-
+​
 s!randomuser
 └─ Chooses a random user from the server
-
+​
 s!redpanda
 └─ Posts a Random Redpanda.
-
+​
 s!reverse <text>
 └─ !poow ,ffuts esreveR
-
+​
 s!roast [user]
 └─ Roast the user. WARNING: Can be VERY offensive
-
+​
 s!rps <your_choice>
 └─ Play rock paper scissors
-
+​
 s!sadcat
 └─ Posts a Random sad cat.
-
+​
 s!say <message>
 └─ Let it say what you want.
-
+​
 s!shrug
 └─ Shrugs!
-
+​
 s![slot|slots|bet]
 └─ Roll the slot machine
-
+​
 s!space <msg>
 └─ Add n spaces between each letter. Ex: [p]space 2 thicc
-
+​
 s!stupid <member>
 └─ Blame stupid people
-
-s!subleading
+​
+s![subleading|sl] [p] [stping=True]
 └─ Check the leader between pewdiepie and tseries
-
-s!tea [member]
+​
+s!tea [member] [time=0]
 └─ Get some tea or give to someone!
-
+​
 s!textflip <text>
 └─ No description set..
-
+​
 s![txtmoji|textemoji] <msg>
 └─ Convert a Text to emotes.
-
+​
 s!urban <search>
-└─ Find the 'best' definition to your words.
-
-s!urban2 <search>
-└─ Old urban command.
-
+└─ Find the 'best' definition to your words
+​
 s!whatdevice
-└─ The bot will tell you if youre on mobile or desktop.
+└─ The bot will tell you if youre on mobile or desktop :)
