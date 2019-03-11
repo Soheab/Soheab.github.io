@@ -11,9 +11,6 @@ s!about2
 s![avatar|av] [member]
 └─ Get the avatar of you or someone else
 ​
-s!benisserver
-└─ Get an invite to my weird server!
-​
 s![botserver|supportserver]
 └─ Get an invite to our support server!
 ​

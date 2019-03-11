@@ -67,8 +67,5 @@ s!unspoil <message_id>
 s!uppercase <msg>
 └─ UPPERCASE DIS
 
-s!wikipedia [text]
-└─ Wikipedia search.
-
 s!youtube <query>
 └─ Search on Youtube
