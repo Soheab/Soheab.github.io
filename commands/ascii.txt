@@ -2,9 +2,9 @@
 || 🖼 | Ascii commands ||
 ------------------------
 
-S!ascii <text> [font]
+s!ascii <text> [font]
 └─ Convert text to ascii art.
-S!asciifonts
+s!asciifonts
 └─ List all fonts.
-S!asciirandom <text>
+s!asciirandom <text>
 └─ Convert text to ascii art.
