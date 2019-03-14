@@ -2,38 +2,27 @@
 || 🤬 | Nonpy commands ||
 ------------------------
 
-s!dick [member]
+S!dick [member]
 └─ Suck a dick.
-
-s!dick2 <member> <member2>
+S!dick2 <member> <member2>
 └─ Suck somones dick.
-
-s!dickbutt
+S!dickbutt
 └─ No description set..
-
-s!dildo [user]
+S!dildo [user]
 └─ See somones or urs dildo size.
-
-s!kill [member]
+S!kill [member]
 └─ Kill a user
-
-s!nipple
+S!nipple
 └─ Press nipple for a girl
-
-s![pickle|pz] [user]
+S![pickle|pz] [user]
 └─ See your picklesize.
-
-s!pussy [member]
+S!pussy [member]
 └─ Eat da pussy.
-
-s!pussy2 <member> <member2>
+S!pussy2 <member> <member2>
 └─ Eat somones pussy.
-
-s!shoot [user]
+S!shoot [user]
 └─ Shoot someone.
-
-s!stab [user]
+S!stab [user]
 └─ Ssstab a perssson!
-
-s!succ
+S!succ
 └─ No description set..

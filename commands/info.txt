@@ -2,59 +2,39 @@
 || ℹ | Information command ||
 ------------------------
 
-s![about|botstats|stats]
+S![about|botstats|stats]
 └─ About the bot
-​
-s!about2
-└─ About the bot
-​
-s![avatar|av] [member]
+S![avatar|av] [member]
 └─ Get the avatar of you or someone else
-​
-s![botserver|supportserver]
+S![botserver|supportserver]
 └─ Get an invite to our support server!
-​
-s!channelinfo [channel]
+S!channelinfo [channel]
 └─ Shows channel information
-​
-s!device [member]
+S!device [member]
 └─ Check if a user is on mobile or desktop!
-​
-s!game [member]
+S!game [member]
 └─ Tells you what someone is playing
-​
-s![invite|botinvite]
+S![invite|botinvite]
 └─ Invite me to your server
-​
-s!joinedat [user]
+S!joinedat [user]
 └─ Check when a user joined the current server
-​
-s!memberstats
+S!memberstats
 └─ Check who is online, offline, idle or dnd or your server!
-​
-s![moderators|mods]
+S![moderators|mods]
 └─ Lists all the moderators of the server
-​
-s!perms [user]
+S!perms [user]
 └─ No description set..
-​
-s!ping
+S!ping
 └─ Pong!
-​
-s!rolemembers <role>
+S!rolemembers <role>
 └─ See all members in the certain role.
-​
-s![roleperms|rop] <msg>
+S![roleperms|rop] <msg>
 └─ Get role perms! The role name must match exactly. Ex for a role "Admin", you'...
-​
-s!server
+S!server
 └─ Server info commands.
-​
-s!source
+S!source
 └─ Check out the source code <3
-​
-s!uptime
+S!uptime
 └─ Lists the bot's uptime.
-​
-s!userinfo [user]
+S!userinfo [user]
 └─ Shows you the info for the given user, or yours if you didn't give a user.

@@ -4,48 +4,33 @@
 
 s!crazythink
 └─ Sends a emoji.
-​
 s![emoji|emote] <msg>
 └─ View, copy, add or remove emoji.
-​
 s!googleemoji
 └─ Sends a emoji.
-​
 s!instagram
 └─ Sends a emoji.
-​
 s!kappa
 └─ Sends a emoji.
-​
 s!kek
 └─ Sends a emoji.
-​
 s!lul
 └─ Sends a emoji.
-​
 s!mcblock
 └─ Sends a emoji.
-​
 s!nou
 └─ See all my Nou emojis!
-​
 s!ok_hand
 └─ Sends a emoji.
-​
 s!omegalul
 └─ Sends a emoji.
-​
 s!oof
 └─ Sends a emoji.
-​
 s!pickleparty
 └─ Sends a emoji.
-​
 s!xbox
 └─ Sends a emoji.
-​
 s!yeet
 └─ Sends a emoji.
-​
 s!youtried
 └─ Sends a emoji.
