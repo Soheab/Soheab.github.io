@@ -2,39 +2,56 @@
 || 🔢 | Rates commands ||
 ------------------------
 
-s![babyrate|br] <users>
+s!babyrate <users>
 └─ Give two users to see their chance of getting a baby!
-s![chance|ch] <thing>
+
+s!chance <thing>
 └─ Chance of things
-s![funnyrate|fr]
+
+s!funnyrate
 └─ See how funny the message/pic above is.
-s![gayrate|gr] <thing>
+
+s!gayrate <thing>
 └─ Rates how gay someone is
-s![haterate|hr] <thing>
+
+s!haterate <thing>
 └─ See if something hates you
-s![howaccurate|hoa]
+
+s!howaccurate
 └─ See how accurate the rate above is.
-s![kapparate|kr]
+
+s!kapparate
 └─ See how much kappa the message above is.
-s![lesbianrate|lsr] <thing>
+
+s!lesbianrate <thing>
 └─ Rates how lesbian someone is
-s![lierate|lr] <thing>
+
+s!lierate <thing>
 └─ Rates if someone is lying
-s![loverate|lovr] <users>
+
+s!loverate <users>
 └─ See how much the love between someone is.
-s![notfunnyrate|nfr]
+
+s!notfunnyrate
 └─ See how not funny the message/pic above is.
-s![oofrate|ofr]
+
+s!oofrate
 └─ See how much OOF the message above is.
-s![rate|ra] <thing>
+
+s!rate <thing>
 └─ Rates things
-s![reactrate|rrate]
+
+s!reactrate
 └─ React to rate it.
-s![scaryrate|sr] <thing>
+
+s!scaryrate <thing>
 └─ Rates how scary something is
-s![scaryratemessage|srm]
+
+s!scaryratemessage
 └─ See how much scary the message above is.
-s![shitrate|shr] <thing>
+
+s!shitrate <thing>
 └─ Rates if something is shit
-s![truthrate|tr] <thing>
+
+s!truthrate <thing>
 └─ Rates if someone is saying the truth

@@ -2,33 +2,47 @@
 || 🤡 | Meme commands ||
 ------------------------
 
-s![bad|Bad] [user]
+s!bad [user]
 └─ BAD! user.
+
 s!captcha [user] <content>
 └─ Make a fun captcha out of your friends profilepic
+
 s!clyde <content>
 └─ Make your own custom clyde message!
-s![colorify|colourify] <url> <hex>
+
+s!colorify <url> <hex>
 └─ Color a pic to a color of choice!
-s![discordmeme|dmeme]
+
+s!discordmeme
 └─ Pulls a random meme from r/Discordmemes WARNING: Can be offensive
-s![drake|Drake] <texts>
+
+s!drake <texts>
 └─ Make a dank, drake meme.
-s![facts|Facts] [txt...]
+
+s!facts [txt...]
 └─ Gets the facts book
-s![filter|fl] [filter] [user]
+
+s!filter [filter] [user]
 └─ Give someone a nice filter.
+
 s!fml
 └─ Fuck my life lines
-s![meme|Meme]
+
+s!meme
 └─ Posts random memes. WARNING: Can be offensive
-s![pewdiepiememe|pmeme]
+
+s!pewdiepiememe
 └─ Pulls a random meme from r/PewdiepieSubmissions WARNING: Can be offensive
-s![redditmeme|rmeme]
+
+s!redditmeme
 └─ Pulls a random meme from r/me_irl WARNING: Can be offensive
-s![salty|Salty] [user]
+
+s!salty [user]
 └─ Show how salty someone is.
-s![ship|Ship] <user> <user2>
+
+s!ship <user> <user2>
 └─ Make a lovely ship <3
-s![supreme|Supreme] [txt...]
+
+s!supreme [txt...]
 └─ Gets a supreme font and color

@@ -4,9 +4,12 @@
 
 s![changelog|newcommands]
 └─ See what's new, changed or removed
+
 s!help [command]
 └─ Lists the bot's commands and cogs.
+
 s![suggest|report] <suggestion_bug>
 └─ Suggest a command or report a bug with this.
+
 s!vote
 └─ To vote on me on bot listing sites.
