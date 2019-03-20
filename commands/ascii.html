@@ -20,7 +20,7 @@
     <meta content="Ascii commands" property="og:title" />
 
     <meta content="Commands." property="og:description" />
-    <meta content="Commands for a discord bot." name="description" />
+    <meta content="Ascii commands for sparklybot" name="description" />
 
     <meta name="revisit-after" content="2 days">
     <meta name="keywords" content="Soheabmalik, Twitter, Discord, Snowybot">
@@ -36,7 +36,6 @@
     <!-- CSS -->
     <link href="https://modesta.alexflipnote.dev/css/modesta.min.css" type="text/css" rel="stylesheet">
     <link href="https://modesta.alexflipnote.dev/css/blobcat.min.css" type="text/css" rel="stylesheet">
-    <link href="assets/css/custom.css" type="text/css" rel="stylesheet">
 
     <!-- JavaScript -->
     <script src="assets/js/smoothscroll.min.js" type="text/javascript" charset="utf-8"></script>
@@ -44,6 +43,32 @@
     <script src="https://modesta.alexflipnote.dev/js/navbar.js"></script>
   </head>
   <body>
+
+    <div class="nav-container default">
+      <span id="menu-icon"></span>
+
+      <div id="navside" class="sidenav">
+        <a href="" class="current">Ascii</a>
+        <a href="./emojis.html">Emojis</a>
+        <a href="./fun.html">Fun</a>
+        <a href="./help.html">Help</a>
+        <a href="./information.html">Information</a>
+        <a href="./memes.html">Memes</a>
+        <a href="./moderator.html">Moderator</a>
+        <a href="./nonpg.html">Nonpg</a>
+        <a href="./polls.html">Polls</a>
+        <a href="./rates.html">Rates</a>
+        <a href="./useful.html">Useful</a>
+      </div>
+      <script>
+        var navside = document.getElementById('navside');
+        document.getElementById("menu-icon").onclick = function() { navside.style.transform = "translateX(0)"; }
+        document.addEventListener("click", function(event) {
+          if (event.target.closest(".nav-container")) return;
+          navside.style.transform = "translateX(-250px)";
+        });
+      </script>
+    </div>
 
     <div class="paper-container">
       <div class="ribbon spotify"></div>

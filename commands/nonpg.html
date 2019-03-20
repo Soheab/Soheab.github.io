@@ -45,6 +45,32 @@
   </head>
   <body>
 
+    <div class="nav-container default">
+      <span id="menu-icon"></span>
+
+      <div id="navside" class="sidenav">
+        <a href="./ascii.html">Ascii</a>
+        <a href="./emojis.html">Emojis</a>
+        <a href="./fun.html">Fun</a>
+        <a href="./help.html">Help</a>
+        <a href="./information.html">Information</a>
+        <a href="./memes.html">Memes</a>
+        <a href="./moderator.html">Moderator</a>
+        <a href="" class="current">Nonpg</a>
+        <a href="./polls.html">Polls</a>
+        <a href="./rates.html">Rates</a>
+        <a href="./useful.html">Useful</a>
+      </div>
+      <script>
+        var navside = document.getElementById('navside');
+        document.getElementById("menu-icon").onclick = function() { navside.style.transform = "translateX(0)"; }
+        document.addEventListener("click", function(event) {
+          if (event.target.closest(".nav-container")) return;
+          navside.style.transform = "translateX(-250px)";
+        });
+      </script>
+    </div>
+
     <div class="paper-container">
       <div class="ribbon asbestos"></div>
       <div class="paper midnight-blue-paper">
