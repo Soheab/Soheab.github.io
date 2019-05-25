@@ -43,6 +43,27 @@
     <script id="close" class="display: none"></script>
   </head>
   <body>
+
+    <div class="nav-container default">
+      <span id="menu-icon"></span>
+
+      <h1 class="nav-title"><b>Categories</b></h1>
+
+      <div id="navside" class="sidenav">
+        <a href="" class="current">Home</a>
+        <a href="commands/ascii.html">Ascii</a>
+        <a href="commands/emojis.html">Emojis</a>
+        <a href="commands/fun.html">Fun</a>
+        <a href="commands/info.html">Information</a>
+        <a href="commands/memes.html">Memes</a>
+        <a href="commands/moderator.html">Moderator</a>
+        <a href="commands/Nonpg.html">Nonpg</a>
+        <a href="commands/polls.html">Polls</a>
+        <a href="commands/rates.html">Rates</a>
+        <a href="commands/useful.html">Useful</a>
+      </div>
+      </div>
+
     <div class="fullscreen">
       <div class="background" style="background-image: url('assets/images/commandspage.png');"></div>
       <div class="center-object">
@@ -50,52 +71,22 @@
           <section class="me">
             <div class="unset"><h1 class="title">🛠 <b>Commands</b></h1></div>
               <div class="undertitle">Prefix: s!, @botname</h4></div>
-          </section
-
-          <div class="nav-container default">
-            <span id="menu-icon"></span>
-
-            <div id="navside" class="sidenav">
-
-                <div id="navside" class="sidenav">
-              <a href="/" class="current" >Home</a>
-              <a href="commands/ascii.html">Ascii</a>
-              <a href="commands/emojis.html">Emojis</a>
-              <a href="commands/fun.html">Fun</a>
-              <a href="commands/info.html">Information</a>
-              <a href="commands/memes.html">Memes</a>
-              <a href="commands/moderator.html">Moderator</a>
-              <a href="commands/Nonpg.html">Nonpg</a>
-              <a href="commands/polls.html">Polls</a>
-              <a href="commands/rates.html">Rates</a>
-              <a href="commands/useful.html">Useful</a>
-
-            </div>
-            <script>
-              var navside = document.getElementById('navside');
-              document.getElementById("menu-icon").onclick = function() { navside.style.transform = "translateX(0)"; }
-              document.addEventListener("click", function(event) {
-                if (event.target.closest(".nav-container")) return;
-                navside.style.transform = "translateX(-250px)";
-              });
-            </script>
-          </div>
+          </section>
 
           <div class="buttons">
-            <a href="commands/ascii.html" class="bold btn animation hover spotify-flat" target="_blank">Ascii</a>
-            <a href="commands/emojis.html" class="bold btn animation hover sun-flower-flat" target="_blank">Emojis</a>
-            <a href="commands/fun.html" class="bold btn animation hover patreon-flat" target="_blank">Fun</a>
-            <a href="commands/help.html" class="bold btn animation hover instagram-flat" target="_blank">Help</a>
+            <a href="commands/ascii.html" class="bold btn animation hover cubered-flat" target="_blank">Ascii</a>
+            <a href="commands/emojis.html" class="bold btn animation hover emerald-flat" target="_blank">Emojis</a>
+            <a href="commands/fun.html" class="bold btn animation hover gold-flat" target="_blank">Fun</a>
+            <a href="commands/help.html" class="bold btn animation hover instagram-flat" target="_blank">Information</a>
           </div>
           <div class="buttons">
-            <a href="commands/info.html" class="bold btn animation hover pumpkin-flat" target="_blank">Information</a>
             <a href="commands/memes.html" class="bold btn animation hover turquoise-flat" target="_blank">Memes</a>
-            <a href="commands/mod.html" class="bold btn animation hover telegram-flat" target="_blank">Moderator</a>
-            <a href="commands/nonpg.html" class="bold btn animation hover asbestos-flat" target="_blank">Nonpg</a>
+            <a href="commands/mod.html" class="bold btn animation hover soundcloud-flat" target="_blank">Moderator</a>
+            <a href="commands/nonpg.html" class="bold btn animation hover silver-flat" target="_blank">Nonpg</a>
           </div>
           <div class="buttons">
-            <a href="commands/polls.html" class="bold btn animation hover viber-flat" target="_blank">Polls</a>
-            <a href="commands/rates.html" class="bold btn animation hover youtube-flat" target="_blank">Rates</a>
+            <a href="commands/polls.html" class="bold btn animation hover paypal-flat" target="_blank">Polls</a>
+            <a href="commands/rates.html" class="bold btn animation hover orange-flat" target="_blank">Rates</a>
             <a href="commands/useful.html" class="bold btn animation hover tumblr-flat" target="_blank">Useful</a>
           </div>
         </div>
