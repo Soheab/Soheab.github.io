@@ -48,8 +48,10 @@
     <div class="nav-container default">
       <span id="menu-icon"></span>
 
+      <h1 class="nav-title"><b>Categories</b></h1>
+
       <div id="navside" class="sidenav">
-        <a href="/">Home</a>
+        <a href="C:/Users/User/Documents/Sparklybot%20website/commandsrewrite.html">Home</a>
         <a href="./ascii.html">Ascii</a>
         <a href="./emojis.html">Emojis</a>
         <a href="./fun.html">Fun</a>
@@ -57,40 +59,30 @@
         <a href="./memes.html">Memes</a>
         <a href="./moderator.html">Moderator</a>
         <a href="./Nonpg.html">Nonpg</a>
-        <a href="./polls.html" class="current" >Polls</a>
+        <a href="" class="current" >Polls</a>
         <a href="./rates.html">Rates</a>
         <a href="./useful.html">Useful</a>
-
       </div>
-      <script>
-        var navside = document.getElementById('navside');
-        document.getElementById("menu-icon").onclick = function() { navside.style.transform = "translateX(0)"; }
-        document.addEventListener("click", function(event) {
-          if (event.target.closest(".nav-container")) return;
-          navside.style.transform = "translateX(-250px)";
-        });
-      </script>
-    </div>
+      </div>
 
-    <div class="paper-container">
-      <div class="ribbon viber"></div>
-      <div class="paper discord-paper">
-        h3><b>Polls commands</b> |<div></div></h3>
-        <h5><div><b>instantpoll</b>
-        <h6>- Creates a poll instantly.</h6></h5>
-        <h5><div><b>poll</b>
-        <h6>- </h6></h5>
-        <h5><div><b>reactpoll</b>
-        <h6>- Reacts on your question.</h6></h5>
-        <h5><div><b>votepoll</b>
-        <h6>- Make a vote on your server </h6></h5>
+    <div class="paper-container paypal">
+      <div class="ribbon paypal"></div>
+      <div class="paper primary-paper">
+        <section class="me">
+          <div class="unset"><h1 class="title"><b>Polls</b></h1></div>
+            <div class="undertitle"><h4>Make polls and polls commands..</h4></div>
+      </section>
+        <div class="center"> <h3><b>instantpoll</b></h3><div><h6>Creates a poll instantly.</h6></div></div>
+        <div class="center"> <h3><b>poll</b></h3><div><h6>Creates a big poll.</h6></div></div>
+        <div class="center"> <h3><b>reactpoll</b></h3><div><h6>Reacts on your question.</h6></div></div>
+        <div class="center"> <h3><b>votepoll</b></h3><div><h6>Make a vote on your server </h6></div></div>
       </div>
     </div>
 
     <footer class="center box-container primary no-border-radius">
       <p class="no-margin">
         <a href="https://soheab.github.io/sparklybot/Commands.html">Back to commands</a>
-        | Polls commands |
+        | Poll commands |
         <a href="https://soheab.github.io/sparklybot/">Back to home</a>
       </p>
     </footer>
