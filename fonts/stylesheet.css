@@ -1,0 +1,9 @@
+/.one-full.column p, .one-full.column h1 {
+  margin: 0;
+}
+
+@font-face {
+font-family: 'open_sansbold';
+src: url('opensans-bold-webfont.woff2') format('woff2'),
+     url('opensans-bold-webfont.woff') format('woff');
+}
