@@ -21,6 +21,11 @@ font-weight:normal;
 font-style:normal;
 }
 
+haha {
+font-family: 'open_sansbold', sans-serif;
+color: blue;
+}
+
 body {
 	background-color: #303030;
 }

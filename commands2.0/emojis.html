@@ -9,21 +9,19 @@
       gtag('config', 'UA-128309793-2');
     </script>
 
-    <title>Emojis Commands</title>
+    <title>Emojis ✨</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
 
     <!-- Meta Data -->
     <meta name="theme-color" content="#2196F3">
     <meta content="https://soheab.github.io/sparklybot/assets/images/profile.png" property="og:image" />
-    <link rel="icon" type="image/x-icon" href="assets/images/favcico.png">
-    <meta content="Emojis commands" property="og:title" />
-
-    <meta content="Commands." property="og:description" />
-    <meta content="Commands for a discord bot." name="description" />
+    <link rel="icon" type="image/x-icon" href="assets/images/profile.png">
+    <meta content="Sparklybot" property="og:title" />
+    <meta content="Commands for Sparklybot." property="og:description" />
 
     <meta name="revisit-after" content="2 days">
-    <meta name="keywords" content="Soheabmalik, Twitter, Discord, Snowybot">
+    <meta name="keywords" content="Soheab, Discord, Sparklybot">
 
     <meta property="og:locale" content="en_GB" />
     <link rel="canonical" href="https://soheab.github.io/sparklybot/" />
@@ -46,25 +44,47 @@
   </head>
   <body>
 
-    <div class="nav-container default">
+    <style>
+		@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+		a, h1, h2, h3, h4, h5, h6, p {
+		font-family: 'Open Sans', sans-serif;
+		}
+		</style>
+
+		<style>
+		@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+		sb {
+		font-family: 'Open Sans', sans-serif;
+		color: #7289da;
+		}
+		</style>
+
+		<div class="nav-container">
       <span id="menu-icon"></span>
 
-      <h1 class="nav-title"><b>Categories</b></h1>
+      <h3 class="nav-title">Categories</h3>
 
-      <div id="navside" class="sidenav">
-        <a href="C:/Users/User/Documents/Sparklybot%20website/commandsrewrite.html">Home</a>
-        <a href="./ascii.html">Ascii</a>
-        <a href="" class="current" >Emojis</a>
-        <a href="./fun.html">Fun</a>
-        <a href="./info.html">Information</a>
-        <a href="./memes.html">Memes</a>
-        <a href="./moderator.html">Moderator</a>
-        <a href="./nonpg.html">Nonpg</a>
-        <a href="./polls.html">Polls</a>
-        <a href="./rates.html">Rates</a>
-        <a href="./useful.html">Useful</a>
-      </div>
-      </div>
+      <div id="navside" class="sidenav dark-not-black">
+				<a href="C:/Users/User/Documents/Sparklybot%20website/commands2.0.html">Home</a>
+				<a href="./ascii.html">Ascii</a>
+				<a href=""><sb>Emojis</sb></a>
+				<a href="./fun.html">Fun</a>
+				<a href="./Infocommands.html">Infocmds</a>
+				<a href="./Memecommands.html">Memecmds</a>
+				<a href="./moderator.html">Moderator</a>
+				<a href="./Pollcommands.html">Pollcmds</a>
+				<a href="./Ratecommands.html">Ratecmds</a>
+				<a href="./Utility.html">Utility</a>
+			</div>
+			</div>
+		  <script>
+		    var navside = document.getElementById('navside');
+		    document.getElementById("menu-icon").onclick = function() { navside.style.transform = "translateX(0)"; }
+		    document.addEventListener("click", function(event) {
+		      if (event.target.closest(".nav-container")) return;
+		      navside.style.transform = "translateX(-250px)";
+		    });
+		  </script>
 
     <div class="paper-container emerald">
       <div class="ribbon emerald"></div>
@@ -83,7 +103,6 @@
       <div class="center"> <h3><b>crabrave</b></h3><div><h6>Sends a Animated emoji! </h6></div></div>
       <div class="center"> <h3><b>crazybird</b></h3><div><h6>Sends a emoji.</h6></div></div>
       <div class="center"> <h3><b>crazythink</b></h3><div><h6>Sends a emoji.</h6></div></div>
-      <div class="center"> <h3><b>emoji</b></h3><div><h6>View, copy, add or remove emoji.</h6></div></div>
       <div class="center"> <h3><b>googleemoji</b></h3><div><h6>Sends a emoji.</h6></div></div>
       <div class="center"> <h3><b>instagram</b></h3><div><h6>Sends a emoji.</h6></div></div>
       <div class="center"> <h3><b>kappa</b></h3><div><h6>Sends a emoji.</h6></div></div>
@@ -112,13 +131,13 @@
       </div>
     </div>
 
-    <footer class="center box-container primary no-border-radius">
-      <p class="no-margin">
-        <a href="https://soheab.github.io/sparklybot/Commands.html">Back to commands</a>
-        | Emojis commands |
-        <a href="https://soheab.github.io/sparklybot/">Back to home</a>
-      </p>
-    </footer>
+    <footer class="center box-container dark-not-black relative">
+			<p class="no-margin">
+				<a href="https://soheab.github.io/sparklybot/Commands.html">Commands page</a>
+				| Emoji commands |
+				<a href="https://soheab.github.io/sparklybot/">Home</a>
+			</p>
+		</footer>
 
   </body>
 </html>
