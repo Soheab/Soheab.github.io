@@ -1,6 +1,8 @@
-.one-full.column p, .one-full.column h1 {
-  margin: 0;
-}
+/* Removes annoying paragraph and header margin spacing */
+.one-full.column p, .one-full.column h1 { margin-bottom: 0; }
+
+/* Remove border-radius standard from ModestaCSS */
+.btn { border-radius: 1; }
 
 @font-face {
 font-family: 'open_sansbold';
