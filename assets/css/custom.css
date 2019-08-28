@@ -31,3 +31,7 @@ color: blue;
 body {
 	background-color: #303030;
 }
+
+.ignoreTags a { display: none; }
+.ignoreTags b  { display: inline; margin: 0; }
+.ignoreTags c  { font-weight: normal; }
