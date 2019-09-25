@@ -6,9 +6,12 @@
   - [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS)
   - [smoothScroll](https://github.com/alicelieutier/smoothScroll)
   
-- Source: https://github.com/AlexFlipnote/alexflipnote.github.io
+- Source: [Alexflipnote.github.io](https://github.com/AlexFlipnote/alexflipnote.github.io)
 
 # Get Sparklybot
+- [Direct](https://discordapp.com/oauth2/authorize?client_id=440176226338865167&permissions=1543892055&scope=bot)
+- [Discordbots.org](https://discordbots.org/bot/440176226338865167)
+- [soon](soon)
 
 # Open Sourced
 
