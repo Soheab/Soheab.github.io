@@ -9,4 +9,4 @@
 
 # Open Sourced
 
-This is opensourced because that is needed to host it on github without "pro". Please don't fork this but you can check out the source! That one you can fork and do whatever with.
+This is opensourced because that is needed to host it on github without "pro". Please don't fork/clone this but you can check out the source! That one you can fork/clone and do whatever with, like i did.
