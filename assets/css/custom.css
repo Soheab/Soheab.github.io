@@ -7,7 +7,7 @@
 @font-face {
 font-family: 'open_sansbold';
 src: url('opensans-bold-webfont.woff2') format('woff2'),
-     url('opensans-bold-webfont.woff') format('woff');
+		 url('opensans-bold-webfont.woff') format('woff');
 }
 
 html, body, div, span, applet, object, iframe,
@@ -32,6 +32,8 @@ body {
 	background-color: #303030;
 }
 
-.ignoreTags a { display: none; }
-.ignoreTags b  { display: inline; margin: 0; }
-.ignoreTags c  { font-weight: normal; }
+<style>
+.center {
+ text-align: center
+}
+</style>
