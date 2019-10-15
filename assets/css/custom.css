@@ -4,6 +4,27 @@
 /* Remove border-radius standard from ModestaCSS */
 .btn { border-radius: 1; }
 
+/* Add font */
+html, body {
+  font-family: 'Mansalva', cursive;
+}
+
+/* Change a bit default ModestaCSS values */
+.title {
+  margin-bottom: 0;
+  letter-spacing: 2px;
+}
+
+.fullscreen h1.title {
+  letter-spacing: 2px;
+}
+
+.box-container p {
+  font-size: 18px;
+  margin-bottom: .2em;
+}
+
+
 @font-face {
 font-family: 'open_sansbold';
 src: url('opensans-bold-webfont.woff2') format('woff2'),
