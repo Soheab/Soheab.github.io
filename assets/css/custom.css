@@ -25,13 +25,13 @@ html, body {
 }
 
 
-@font-face {
+/* @font-face {
 font-family: 'open_sansbold';
 src: url('opensans-bold-webfont.woff2') format('woff2'),
 		 url('opensans-bold-webfont.woff') format('woff');
-}
+}! */
 
-html, body, div, span, applet, object, iframe,
+/* html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, font, img, ins, kbd, q, s, samp,
@@ -47,7 +47,7 @@ font-style:normal;
 haha {
 font-family: 'open_sansbold', sans-serif;
 color: blue;
-}
+}*/
 
 body {
 	background-color: #303030;
