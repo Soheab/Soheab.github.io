@@ -1,47 +1,25 @@
-/* Removes annoying paragraph and header margin spacing */
-.one-full.column p, .one-full.column h1 { margin-bottom: 0; }
+/* Change a bit default ModestaCSS values */
+.title { margin-bottom: 0; letter-spacing: 2px; }
+.fullscreen h1.title { letter-spacing: 2px; }
+.box-container p { font-size: 18px; margin-bottom: .2em; }
+
+/* Add some spacing to the info on "second page" for more depth */
+.info-container { padding-left: 2.5em; }
 
 /* Remove border-radius standard from ModestaCSS */
-.btn { border-radius: 1; }
+.btn { border-radius: 0; }
 
-<style>
-@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
-</style>
-
-@font-face {
-/*font-family: 'open_sansbold';*/
-font-family: 'Acme', sans-serif;
-src: url('https://fonts.googleapis.com/css?family=Acme&display=swap');
-/*src: url('opensans-bold-webfont.woff2') format('woff2'),
-		 url('opensans-bold-webfont.woff') format('woff');*/
+/* Funny gibus hat */
+.avatar-container {
+  position: relative;
 }
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, font, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center, dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend, table,
-caption, tbody, tfoot, thead, tr, th, td  {
-font-family: 'Acme', sans-serif;
-/*font-family: 'open_sansbold', sans-serif;*/
-font-weight:normal;
-font-style:normal;
+/* R e s p o n s i v e */
+@media (max-width: 550px) {
+  .info-container { padding-left: 0; }
 }
 
-haha {
-/*font-family: 'open_sansbold', sans-serif;*/
-font-family: 'Acme', sans-serif;
-color: blue;
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+sb {
+  font-family: 'Open Sans', sans-serif;
 }
-
-body {
-	background-color: #303030;
-}
-
-<style>
-.center {
- text-align: center
-}
-</style>
