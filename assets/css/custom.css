@@ -7,7 +7,7 @@
 .info-container { padding-left: 2.5em; }
 
 /* Remove border-radius standard from ModestaCSS */
-.btn { border-radius: 0; }
+.btn { border-radius: 5; }
 
 /* Funny gibus hat */
 .avatar-container {
