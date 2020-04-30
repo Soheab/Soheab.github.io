@@ -14,6 +14,8 @@
   position: relative;
 }
 
+
+
 /* R e s p o n s i v e */
 @media (max-width: 550px) {
   .info-container { padding-left: 0; }
