@@ -1,31 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@600&family=Pangolin&family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@500&family=Roboto+Mono:wght@500&family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
 /* Change a bit default ModestaCSS values */
-.title { margin-bottom: 0; letter-spacing: 2px; }
-.fullscreen h1.title { letter-spacing: 2px; }
-.box-container p { font-size: 18px; margin-bottom: .2em; }
-
-/* Add some spacing to the info on "second page" for more depth */
-.info-container { padding-left: 2.5em; }
-
-/* Remove border-radius standard from ModestaCSS */
-.btn { border-radius: 5; }
-
-/* Funny gibus hat */
-.avatar-container {
-  position: relative;
+.fullscreen h1.title {
+    margin-bottom: 0;
+    letter-spacing: 2px;
 }
 
+.box-container p {
+    font-size: 18px;
+    margin-bottom: .2em;
+}
 
+/* Add a pointer to arrow <span> */
+.info-button {
+    cursor: pointer;
+}
+
+/* Add some spacing to the info on "second page" for more depth */
+.info-container {
+    padding-left: 2.5em;
+}
+
+/* Remove border-radius standard from ModestaCSS */
+.btn {
+    border-radius: 12px;
+}
 
 /* R e s p o n s i v e */
 @media (max-width: 550px) {
-  .info-container { padding-left: 0; }
+    .info-container {
+        padding-left: 0;
+    }
 }
 
-@import url("https://fonts.googleapis.com/css?family=Open+Sans");
 sb {
-  font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 infotitles {
-  font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+commandsignature {
+    font-size: 1.22em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+commandname {
+    font-weight: bolder;
+    font-size: 1.60em;
+    font-family: 'Roboto', sans-serif;
+}
+
+commandusage {
+    font-size: 1.22em;
+    font-family: 'Roboto Mono', monospace;
+}
+
+commandalias {
+    font-size: 1em;
+    font-family: 'Poppins', sans-serif;
+}
+
+commandaliasheader {
+    font-weight: bold;
+    font-size: 1em;
+    font-family: 'Poppins', sans-serif;
+}
+
+cogdescription {
+    font-weight: bolder;
+    font-size: 1.30em;
+    font-family: 'Poppins', sans-serif;
+}
+
+requiredtext {
+    font-weight: bold;
+    font-size: 1.20em;
+}
+
+bold {
+    font-weight: bold;
+}
+
+sig {
+    font-family: 'Open Sans', sans-serif;
+}
+
+name {
+    font-family: 'Roboto', sans-serif;
+}
+
+usag {
+    font-family: 'Roboto Mono', monospace;
+}
+
+alia {
+    font-family: 'Poppins', sans-serif;
 }

@@ -7,24 +7,36 @@
 
     <!-- Custom CSS -->
     <style>
-      .cursor { animation: 1s blink step-end infinite; font-weight: bolder; }
+      .cursor {
+        animation: 1s blink step-end infinite;
+        font-weight: bolder;
+      }
+
       @keyframes blink {
-        from, to { opacity: 0; }
-        50% { opacity: 1; }
+        from, to {
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+        }
       }
     </style>
   </head>
-  <body>
-    <section class="fullscreen">
-      <div class="background" style="background-image: url('https://soheab.github.io/assets/images/404.gif');"></div>
-      <div class="center-object center-text">
-        <h1 class="bold">
-          <span class="alizarin-text">404</span>
-            <br>
-          Page not found<span class="cursor">_</span>
-        </h1>
-        <a href="/" class="btn alizarin-border">Back to home</a>
+  <body class="monospace">
+  <section class="fullscreen">
+    <div class="background"></div>
+    <div class="center-object center-text">
+      <img src="https://alexflipnote.dev/assets/images/AlexBored.png">
+      <h1 class="bold no-margin">
+        <span class="alizarin-text">404</span>
+        <br>
+        Page not found<span class="cursor">_</span>
+      </h1>
+      <div class="buttons">
+        <a class="btn alizarin-border" href="/">Back to home</a>
+        <a class="btn emerald-border" href="#" onclick="window.history.go(-1); return false;">Go one step back</a>
       </div>
-    </section>
+    </div>
+  </section>
   </body>
 </html>
