@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+domain: "https://soheab.github.io"
+baseurl: ""
+url: "https://soheab.github.io"
+encoding: utf-8
+
+sass:
+  sass_dir: _sass
+  style: compressed

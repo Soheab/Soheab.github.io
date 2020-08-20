@@ -20,12 +20,32 @@
 
 /* Add some spacing to the info on "second page" for more depth */
 .info-container {
-    padding-left: 2.5em;
+    align-content: center;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    padding: 1em 4em 0.60em;
 }
 
 /* Remove border-radius standard from ModestaCSS */
 .btn {
+    border-radius: 8px;
+}
+
+/* Need this for sticky nav bar */
+.paper-container .ribbon {
+    margin-top: 3.15em;
+}
+
+/* Making commands look nicer.. i hope. */
+.paper-container .paper {
     border-radius: 12px;
+    padding: 3em;
+    background: #343a40;
+}
+
+/* Removing that triangle on the paper. */
+.paper-container .paper::before {
+    display: none;
 }
 
 /* R e s p o n s i v e */
@@ -35,16 +55,16 @@
     }
 }
 
-sb {
-    font-family: 'Open Sans', sans-serif;
-}
-
-infotitles {
-    font-family: 'Open Sans', sans-serif;
+.disable-select {
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
 }
 
 commandsignature {
-    font-size: 1.22em;
+    font-size: 1.15em;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -85,18 +105,87 @@ bold {
     font-weight: bold;
 }
 
-sig {
-    font-family: 'Open Sans', sans-serif;
+
+.reviews-title {
+    font-size: 3rem;
+    letter-spacing: 3px;
+    margin-left: .5em;
+    margin-bottom: 0;
+    margin-top: 1.5em;
 }
 
-name {
-    font-family: 'Roboto', sans-serif;
+.reviews img {
+    height: 2em;
+    width: 2em;
 }
 
-usag {
-    font-family: 'Roboto Mono', monospace;
+.reviews .me .title {
+    font-size: 2rem;
+    font-weight: bolder;
 }
 
-alia {
-    font-family: 'Poppins', sans-serif;
+.reviews .me .undertitle {
+    font-size: 1rem;
+    font-weight: lighter;
+    font-style: normal;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+@media (max-width: 875px) {
+    .me.unset {
+        flex-direction: column;
+    }
+}
+
+/* -------------------------------------- */
+
+/* SOURCE: https://github.com/KawaiiBot/kawaiibot.xyz */
+
+.kawaii-devs-title {
+    font-size: 3rem;
+    letter-spacing: 3px;
+    margin-left: .5em;
+    margin-bottom: 0;
+    margin-top: 1.5em;
+}
+
+.kawaii-developers img {
+    height: 4em;
+    width: 4em;
+}
+
+.dev-link-logo {
+    font-size: 24px;
+    margin-top: .3em;
+    margin-right: .5em;
+    transition: opacity 250ms ease;
+    transition: transform 250ms ease;
+}
+
+.dev-link-logo:hover {
+    opacity: .6;
+    transform: translateY(-.15em);
+    transition: opacity 250ms ease;
+    transition: transform 250ms ease;
+}
+
+.kawaii-developers .me .title {
+    font-size: 2rem;
+}
+
+.kawaii-developers .me .undertitle {
+    font-size: 1rem;
+}
+
+@media (max-width: 875px) {
+    .me.unset {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 750px) {
+    .me.unset {
+        margin-bottom: 1em;
+    }
 }
