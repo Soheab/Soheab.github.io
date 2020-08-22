@@ -6,19 +6,29 @@
   links:
     - url: https://github.com/Soheab
       faicon: fab fa-github
-      colour: black
+      colour: white
     - url: https://twitter.com/Soheab_
       faicon: fab fa-twitter
-      colour: 1DA1F2
+      colour: 1da1f2
     - url: https://instagram.com/_Soheab__
       faicon: fab fa-instagram
-      colour: E1306C
+      colour: c32aa3
+    - url: https://www.twitch.tv/soheabmalik
+      faicon: fab fa-twitch
+      colour: 6441a4
+    - url: https://www.reddit.com/user/Soheabmalik
+      faicon: fab fa-reddit
+      colour: ff4500
+    - url: https://www.youtube.com/channel/UCeMzlDFg0EZ5ToKl4vIN1nQ
+      faicon: fab fa-youtube
+      colour: f00
+
 
 - name: YoursTruely09
   title: Developer
   avatar: https://cdn.discordapp.com/avatars/203951107943170048/1b0a4665f23c68aed23ce2ad6a4ee859.png
   links:
-    - url: https://twitter.com/yourstruely09
+    - url: https://twitter.com/YoursTruelyMC
       faicon: fab fa-twitter
       colour: 1DA1F2
     - url: https://twitch.tv/yourstruely09
