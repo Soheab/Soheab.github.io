@@ -1,144 +1,52 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
-
-code {
-    font-family: 'Roboto', sans-serif;
-    background-color: rgb(0 0 0 / 10%);
-    font-size: 14px;
+a.btn.btn-info[href="https://reddit.com/u/SoheabMalik"] {
+    background-color: #ff4500;
+    border-style: none;
 }
-
-.dark-div {
-  -webkit-user-select: none;  /* Chrome all / Safari all */
-  -moz-user-select: none;     /* Firefox all */
-  -ms-user-select: none;      /* IE 10+ */
-  user-select: none;          /* Likely future */ 
+a.btn.btn-info[href="https://instagram.com/_Soheab__"] {
+    background-color: #c32aa3;
+    border-style: none;
 }
-
-.dark-div {
-    background-color: #3774FF;
-    padding: 30px;
-    border-radius: 50px;
+a.btn.btn-info[href="https://twitter.com/Soheab_"] {
+    background-color: #1da1f2;
+    border-style: none;
 }
-
-.navbar-default .navbar-nav>li>a {
-    padding: 5px 10px;
-    font-size: 15px;
-    line-height: 54px;
-    font-weight: 400;
-    background: transparent;
-    color: var(--font-color);
+a.btn.btn-info[href="https://github.com/Soheab"] {
+    background-color: #292d32;
+    border-style: none;
 }
-
-.navbar {
-background-color: #3774F8;;
+.btn-info {
+    border-radius: 18px;
 }
-
-.dark-button {
-    background-color: #96A6E0;
-    color: white;
-    text-transform: uppercase;
-    font-size: 13px;
+.btn-warning {
+    border-radius: 18px;
+    border-style: none;
+    padding: 6px;
+}
+.badge-secondary {
+    color: black;
+    background-color: white;
+}
+.float-left {
+    float: left!important;
+}
+.avatar {
+    border-radius: 19%!important;
+    height: 134px!important;
+    width: 139px!important;
+    margin-right: 1em;
+}
+.card-footer.bg-secondary {
+    color: black;
+    background-color: white!important;
+    border-radius: 15px;
     font-weight: 600;
-    line-height: 24px;
-    padding: 12px 28px;
-    border-radius: 26px;
-    margin: 54px 10px 0 0;
-    position: relative;
-    transition: top ease 0.5s;
-    top: 0;
-    box-shadow: 0 5px 9px rgb(0 0 0 / 5%), 0 1px 15px rgb(0 0 0 / 40%);
+    margin-top: 1em;
+    border-style: none;
+    margin-bottom: -14em;
 }
-
-.circle-image-big {
-    border-radius: 50%;
-    height: 150px;
-    width: 154px;
-    box-shadow: 0 5px 9px rgb(0 0 0 / 5%), 0 1px 15px rgb(0 0 0 / 40%);
+.card-body {
+    border-radius: 13px;
 }
-
-.footer-distributed {
-    margin-bottom: 0px;
-    background-color: #3774F8;
-    color: var(--font-color);
-    width: 100%;
-    margin-top: 110px;
-    padding-bottom: 28px;
-    font-family: 'Roboto', sans-serif;
-}
-
-.footer-distributed .about, .footer-left a, .footer-distributed a:hover {
-    line-height: 14px;
-    color: black;
-    font-size: 13px;
-    font-weight: 600;
-    margin: 1px;
-    font-family: 'Roboto', sans-serif;
-}
-
-.footer-distributed .footer-center a, .footer-distributed .footer-center a:hover, .footer-distributed .links, .footer-distributed .links a, .footer-distributed .links a:hover {
-    color: black;
-    background-color: transparent !important;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 600;
-    margin: 1px;
-    font-size: 13px;
-    line-height: 14px;
-}
-
-.footer-distributed .name {
-    color: black;
-    font-size: 13px;
-    font-weight: normal;
-    margin: 1px;
-    font-family: 'Roboto', sans-serif;
-}
-
-.dark-button:hover {
-    background-color: #3774F8;
-    color: white;
-    top: -10px;
-}
-
-.h5, h5 {
-    font-size: 14px;
-    color: black;
-    font-weight: bolder;
-}
-
-.h2, h2 {
-    font-size: 30px;
-    font-weight: bold;
-    color: black;
-}
-
-.card {
-    border-radius: 26px;
-    box-shadow: 0 13px 38px rgb(0 0 0 / 20%), 0 15px 12px rgb(0 0 0 / 22%);
-    padding: 21px;
-    text-align: center;
-    background-color: var(--background-secondary);
-    display: inline-block;
-    color: var(--font-color);
-    width: 130%;
-    height: 458px;
-    transition: top ease 0.5s;
-    top: 0;
-}
-
-.bot-card-button {
-    background-color: var(--background-button-primary);
-    border: none;
-    color: var(--font-color-secondary);
-    font-weight: 600;
-    padding: 12px 28px;
-    font-size: 13px;
-    box-sizing: border-box;
-    cursor: pointer;
-    transition: transform .2s ease;
-    outline: none;
-    text-decoration: none;
-    text-align: center;
-    border-radius: 10px;
-    width: 180px;
-    box-shadow: 0 5px 9px rgb(0 0 0 / 5%), 0 1px 15px rgb(0 0 0 / 40%);
+.text-muted {
+    color: black!important;
 }
