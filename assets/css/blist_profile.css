@@ -42,11 +42,19 @@ a.btn.btn-info[href="https://github.com/Soheab"] {
     font-weight: 600;
     margin-top: 1em;
     border-style: none;
-    margin-bottom: -14em;
 }
 .card-body {
     border-radius: 13px;
 }
 .text-muted {
     color: black!important;
+}
+footer {
+    margin-top: 6rem!important;
+}
+.mb-5, .my-5 {
+    margin-bottom: -1rem!important;
+}
+.pt-5, .py-5 {
+    padding-top: 1rem!important;
 }
