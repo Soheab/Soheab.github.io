@@ -1,9 +1,19 @@
 <html>
+
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8E7ZWD8QWF"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-8E7ZWD8QWF');
+    </script>
     <title>404: Page not found</title>
-    <meta content = "text/html; charset=UTF-8" http-equiv = "Content-Type"/>
-    <meta content = "width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" name = "viewport"/>
-    <link href = "assets/css/modesta.css" rel = "stylesheet" type = "text/css">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" name="viewport" />
+    <link href="assets/css/modesta.css" rel="stylesheet" type="text/css">
 
     <!-- Custom CSS -->
     <style>
@@ -13,31 +23,36 @@
         }
 
         @keyframes blink {
-            from, to {
+
+            from,
+            to {
                 opacity: 0;
             }
+
             50% {
                 opacity: 1;
             }
         }
     </style>
 </head>
-<body class = "monospace">
-<section class = "fullscreen">
-    <div class = "background"></div>
-    <div class = "center-object center-text">
-        <img src = "https://alexflipnote.dev/assets/images/AlexBored.png">
-        <h1 class = "bold no-margin">
-            <span class = "alizarin-text">404</span>
-            <br>
-            Page not found<span class = "cursor">_</span>
-        </h1>
-        <div class = "buttons">
-            <a class = "btn alizarin-border" href = "/">Back to home</a>
-            <a class = "btn emerald-border" href = "#"
-               onclick = "window.history.go(-1); return false;">Go one step back</a>
+
+<body class="monospace">
+    <section class="fullscreen">
+        <div class="background"></div>
+        <div class="center-object center-text">
+            <img src="https://alexflipnote.dev/assets/images/AlexBored.png">
+            <h1 class="bold no-margin">
+                <span class="alizarin-text">404</span>
+                <br>
+                Page not found<span class="cursor">_</span>
+            </h1>
+            <div class="buttons">
+                <a class="btn alizarin-border" href="/">Back to home</a>
+                <a class="btn emerald-border" href="#" onclick="window.history.go(-1); return false;">Go one step
+                    back</a>
+            </div>
         </div>
-    </div>
-</section>
+    </section>
 </body>
+
 </html>
